@@ -1,0 +1,10 @@
+HIGH CARD GAME RESULTS
+
+Players: 2
+
+Round 1:
+Player 1: 5 of Clubs
+Player 2: 6 of Hearts
+
+Winner: Player 2
+Final Winning Card: 6 of Hearts

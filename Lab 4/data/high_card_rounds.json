@@ -1,0 +1,72 @@
+{
+  "deck_id": "hxc1ai5e4rvx",
+  "players": 2,
+  "rounds": [
+    {
+      "round": 1,
+      "type": "initial",
+      "eligible_players": [
+        1,
+        2
+      ],
+      "response": {
+        "success": true,
+        "deck_id": "hxc1ai5e4rvx",
+        "cards": [
+          {
+            "code": "5C",
+            "image": "https://deckofcardsapi.com/static/img/5C.png",
+            "images": {
+              "svg": "https://deckofcardsapi.com/static/img/5C.svg",
+              "png": "https://deckofcardsapi.com/static/img/5C.png"
+            },
+            "value": "5",
+            "suit": "CLUBS"
+          },
+          {
+            "code": "6H",
+            "image": "https://deckofcardsapi.com/static/img/6H.png",
+            "images": {
+              "svg": "https://deckofcardsapi.com/static/img/6H.svg",
+              "png": "https://deckofcardsapi.com/static/img/6H.png"
+            },
+            "value": "6",
+            "suit": "HEARTS"
+          }
+        ],
+        "remaining": 50
+      },
+      "cards": [
+        {
+          "player": 1,
+          "card": {
+            "code": "5C",
+            "image": "https://deckofcardsapi.com/static/img/5C.png",
+            "images": {
+              "svg": "https://deckofcardsapi.com/static/img/5C.svg",
+              "png": "https://deckofcardsapi.com/static/img/5C.png"
+            },
+            "value": "5",
+            "suit": "CLUBS"
+          }
+        },
+        {
+          "player": 2,
+          "card": {
+            "code": "6H",
+            "image": "https://deckofcardsapi.com/static/img/6H.png",
+            "images": {
+              "svg": "https://deckofcardsapi.com/static/img/6H.svg",
+              "png": "https://deckofcardsapi.com/static/img/6H.png"
+            },
+            "value": "6",
+            "suit": "HEARTS"
+          }
+        }
+      ],
+      "tied_players": [
+        2
+      ]
+    }
+  ]
+}
